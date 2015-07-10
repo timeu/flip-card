@@ -1,0 +1,43 @@
+{
+  "name": "flip-card",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components",
+    "css",
+    "3d"
+  ],
+  "main": "flip-card.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "homepage": "https://github.com/rupl/flip-card",
+  "authors": [
+    "Chris Ruppel <chris.ruppel@gmail.com>",
+    "Will Hoag <dev@willhoag.com>"
+  ],
+  "description": "A Polymer element that uses CSS 3D Transforms to create the classic two-sided flip card.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "../",
+    "test",
+    "tests"
+  ],
+  "_release": "2786dfbd61",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2786dfbd616e8c270e20c95e84969489a187b702"
+  },
+  "_source": "git://github.com/rupl/flip-card.git",
+  "_target": "master",
+  "_originalSource": "rupl/flip-card",
+  "_direct": true
+}
